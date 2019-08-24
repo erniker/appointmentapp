@@ -11,3 +11,14 @@ Apliación Web para gestionar las citas previas de usuarios o clientes. La idea 
 Con el timepo, y si el poryecto sigue adelante, se iran implementnado mejoras y caracteristicas.
 
 SE TRATA DE UN PROYECTO PARA APRENDER .NET CORE, aunque espero que este proyecto se convierta en algo mas serio con el tiempo.
+
+## Getting Started ##
+
+
+## FAQ ##
+
+
+## License ##
+
+
+## Credits ##
