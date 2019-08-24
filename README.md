@@ -1,6 +1,6 @@
 # appointmentapp
 
-## Proyecto academico en desarrollo. NO APTO PARA PRODUCIÓN (De momento) ##
+## Proyecto academico en desarrollo. NO APTO PARA PRODUCCIÓN (De momento) ##
 
 **Aplicación Web de gestión de cita previa en ASP.NET Core**
 
